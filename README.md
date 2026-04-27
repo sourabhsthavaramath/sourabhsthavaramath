@@ -24,3 +24,7 @@ A passionate Electrical and Electronics Engineering graduate focused on embedded
 ![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-555555?style=for-the-badge)
+
+📫 Contact Me
+📧 Email: sourabhbs09@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sourabh-sthavaramath-a32774260/
