@@ -1,19 +1,14 @@
-Hi 👋, I'm Sourabh B Sthavaramath
+# Hi 👋, I'm Sourabh B Sthavaramath
 
-Embedded Systems & Firmware Enthusiast
+## 🚀 Embedded Systems & Firmware Enthusiast
 
 A passionate Electrical and Electronics Engineering graduate focused on embedded systems, firmware development, and IoT applications.
 
-🌱 Currently Learning
-Linux System Programming
-Embedded Firmware Development (STM32)
+🌱 Currently Learning Linux System Programming & Embedded Firmware Development (STM32)
 
-🔧 Working With
-STM32 Microcontrollers
-Embedded C
-Peripheral Interfacing (GPIO, ADC, UART, SPI, I2C)
+🔧 Working With STM32 Microcontrollers, Embedded C, Peripheral Interfacing (GPIO, ADC, UART, SPI, I2C)
 
-🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
