@@ -54,6 +54,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ST--Link_V2_(SWD)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valgrind-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docklight-555555?style=for-the-badge"/>
 </p>
 
 ---
@@ -76,12 +79,6 @@ DOI: [10.1109/ICETEG66194.2025.11473255](https://doi.org/10.1109/ICETEG66194.202
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhsthavaramath&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhsthavaramath&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
